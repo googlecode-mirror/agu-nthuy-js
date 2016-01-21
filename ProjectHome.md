@@ -1,0 +1,1 @@
+Luu tru thong tin cac trang co chay JS
